@@ -1,0 +1,6 @@
+geopy
+pyswip
+requests
+numpy
+scikit-learn
+pandas
